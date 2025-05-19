@@ -1,2 +1,2 @@
 # exercises.cpp
-Exercises developed using C++
+Exercises developed using **C++**
